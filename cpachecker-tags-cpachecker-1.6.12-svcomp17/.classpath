@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path=".apt-generated">
+		<attributes>
+			<attribute name="optional" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/apron.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/edu.cmu.sei.rtss.jldd.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/error_prone_annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/error_prone_annotations-2.0.11-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/gmp.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/jpl.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/jsylvan.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/meconsole010.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/precision.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/build/annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/build/ant-junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/build/error_prone_ant.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/build/ivy.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/build/java-cup.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/build/jflex.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/annotations.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/asm-debug-all.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/bcel-findbugs.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/commons-lang.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/dom4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/findbugs.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/jaxen.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/jFormatString.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/findbugs/xml-apis.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/com.microsoft.z3.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/common-0.3000-130-g9e87b69.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/guava-20.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/icu4j.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/javabdd.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/java-cup-runtime.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/java-smt-1.0.1.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.cdt.core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.core.contenttype.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.core.jobs.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.core.resources.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.core.runtime.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.equinox.common.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.equinox.preferences.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.jdt.core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/org.eclipse.osgi.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/princess-assertionless.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/scala-actors.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/scala-library.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/smtinterpol-comp.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/smt-parser.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/ultimate-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/ultimate-core-rcp.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/ultimate-model.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/ultimate-model-checker-utils.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/ultimate-smt-solver-bridge.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/runtime/ultimate-util.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/test/guava-testlib.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/test/hamcrest-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/test/jsr305.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/test/junit.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/test/mockito-core.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/test/objenesis.jar"/>
+	<classpathentry exported="true" kind="lib" path="F:/workspace/cpachecker-tags-cpachecker-1.6.12-svcomp17/lib/java/test/truth.jar"/>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
